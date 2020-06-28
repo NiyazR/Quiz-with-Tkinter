@@ -1,0 +1,20 @@
+ [
+	{
+	"1":"Which of the following is popular name of  the Indian islands in the Arabian Sea?",
+	"2":"Which of the following is the oldest mountain range in India?",
+	"3":"Which of the following is called the Southernmost Himalayas?",
+        "4":"What is the another name of Sahyadris?",
+        "5":"Where does the Palk Strait lies?"
+	},
+
+	{
+		"1":["Andaman and Nicobar Islands", "Lakshadweep Islands", "Maldives", "Both A & D"],
+		"2":["Aravali Mountains", "Western Ghats", "Himalayas", "Both A & C"],
+                "3":["Siwaliks", "Himadri", "Himachal", "None of the above" ],
+                "4":["Aravali", "Western Ghats", "Himadri", "None of the above"],
+                "5":["Sri Lanka and Maldives", "India and Sri Lanka", "India and Maldives", "Both A & B"]
+	
+	
+	}
+
+]
